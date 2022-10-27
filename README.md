@@ -1,5 +1,9 @@
 # Capstone-Individual
 
+Name:Zheyu Zhang
+
+Student ID: 22889911
+
 This is copy of what I've done from the group repo. 
 
 The contents and modify history may have a little difference for this one includes almost all the work I did for the project, and the group repo
