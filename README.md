@@ -5,7 +5,10 @@ This is copy of what I've done from the group repo.
 The contents and modify history may have a little difference for this one includes almost all the work I did for the project, and the group repo
 only includes the most relative and important contents. In addition, to make my personal reports more readable and intuitive, I have updated my code
 to show more visual content.Last but not least, with time goes, to show the prediction result, it requires the latest forecast climate data, which needs 
-running the 'fetch_code.py' every time, and this code was originally from Nauful, one of my group teammates.Followed are the tasks I was assigned:
+running the 'fetch_code.py' every time, and this code was originally from Nauful, one of my group teammates and for the used data in my repo, some of them
+are modified by my group teammates, not originally.
+
+Followed are the tasks I was assigned:
 
 ## Data Acquisition
 
