@@ -34,7 +34,7 @@ thus I chose decision tree regression and random forest for further improve of t
 After choosing the better of the two models, tests are carried out on predicted future climate data to obtain a forecast 
 of energy consumption for the next 48 hours or a maximum of 14 days.
 
-## Considerations on Explainability
+## Explain
 
 The decision tree is a white box model and has a good interpretability, 
 whereas the random forest is a black box model and therefore needs to be explained using an explanatory model.
