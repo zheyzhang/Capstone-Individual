@@ -1,6 +1,6 @@
 # Capstone-Individual
 
-Name:Zheyu Zhang
+Name: Zheyu Zhang
 
 Student ID: 22889911
 
